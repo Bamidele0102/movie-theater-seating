@@ -24,7 +24,7 @@ This project aims to create a movie theater seating arrangement system that allo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/bamidele0102/movie-theater-seating.git
+    git clone https://github.com/Bamidele0102/movie-theater-seating.git
     ```
 
 <!--2. Install the dependencies:
